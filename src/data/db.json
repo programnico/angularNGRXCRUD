@@ -1,0 +1,64 @@
+{
+  "associate": [
+    {
+      "id": 1,
+      "name": "Andrea",
+      "email": "andrea@gmail.com",
+      "phone": "78747579",
+      "associategroup": "level2",
+      "address": "Santo Tomas, El salvador",
+      "type": "SUPPLIER",
+      "status": false
+    },
+    {
+      "id": 6,
+      "name": "Teresa",
+      "email": "teresa@gmail.com",
+      "phone": "22505500",
+      "associategroup": "level3",
+      "address": "San Salvador",
+      "type": "CUSTOMER",
+      "status": true
+    },
+    {
+      "id": 7,
+      "name": "Nico",
+      "email": "nc@gmail.com",
+      "phone": "78484955",
+      "associategroup": "level3",
+      "address": "San salvador, main street",
+      "type": "SUPPLIER",
+      "status": false
+    },
+    {
+      "id": 8,
+      "name": "Ana Maria",
+      "email": "ana@gmail.com",
+      "phone": "70788956",
+      "associategroup": "level3",
+      "address": "San Salvador, Col Scalon",
+      "type": "SUPPLIER",
+      "status": true
+    },
+    {
+      "id": 9,
+      "name": "Madeline",
+      "email": "madeline@gmail.com",
+      "phone": "74754556",
+      "associategroup": "level2",
+      "address": "Col San Benito San Salvador",
+      "type": "SUPPLIER",
+      "status": false
+    },
+    {
+      "id": 10,
+      "name": "new",
+      "email": "asdf@gmail.com",
+      "phone": "asdf",
+      "associategroup": "level1",
+      "address": "asdf",
+      "type": "CUSTOMER",
+      "status": true
+    }
+  ]
+}
